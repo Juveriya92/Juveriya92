@@ -14,3 +14,6 @@ Skills : ["Python", "dJango Framework", "JavaScript", "Full Stack Development",
 currently_learning: ["Full Stack Web Development"]
 will_learn: ["Web3"]
 hobbies: ["Gardening","Cooking","Creating Content"]
+
+Youtube: https://www.youtube.com/@codebestway
+LinkedIn: https://www.linkedin.com/in/juveriya-mahreen-067826196/
