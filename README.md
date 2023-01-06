@@ -1,16 +1,13 @@
-### Hi there 👋
+name:Juveriya Mahreen
+located_in: Hyderabad, India
 
-<!--
-**Juveriya92/Juveriya92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+education: ["Bachelor's in Computer Science"]
+College: G. Narayanamma Institute of Technology and Science
+Experience: ["Freelance Technical Content Writer"]
 
-Here are some ideas to get you started:
+Skills : ["Python", "dJango Framework", "JavaScript", "Full Stack Development", 
+                      "CSS", "HTML", "Data Science"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning: ["Full Stack Web Development"]
+will_learn: ["Web3"]
+hobbies: ["Gardening","Cooking","Creating Content"]
