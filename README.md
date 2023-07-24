@@ -17,3 +17,4 @@ hobbies: ["Gardening","Cooking","Creating Content"]
 
 Youtube: https://www.youtube.com/@codebestway
 LinkedIn: https://www.linkedin.com/in/juveriya-mahreen-067826196/
+List of Articles Published: https://docs.google.com/document/d/1UjEHap-ihGfE_pJ4541rwjwhjXxc6pmk8uOXbhvpC-g/edit?usp=sharing
